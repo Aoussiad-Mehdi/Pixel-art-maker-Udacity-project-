@@ -38,4 +38,12 @@ body {
   input[type="number"] {
     width: 6em;
   }
+input[type="submit"] {
+    cursor: pointer;
+    padding: 8px 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 14px;
+    font-weight: bold;
+  }
   
